@@ -13,12 +13,19 @@ The website provides a clean, modern, and responsive interface to represent Sivc
 📁 Project Structure
   sivcon/
   │
+  
   ├── index.html
+  
   ├── css/
-  │   └── style.css
+  
+  ├──style.css
+  
   ├── js/
-  │   └── script.js
+  
+  ├──script.js
+  
   ├── images/   (Not included due to size)
+ 
   └── ...
 
 
